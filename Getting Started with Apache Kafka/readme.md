@@ -1,5 +1,5 @@
 # Getting Started with Apache Kafka
 
-By Ryan Plant
+- By Ryan Plant
 
 - https://www.pluralsight.com/courses/apache-kafka-getting-started
