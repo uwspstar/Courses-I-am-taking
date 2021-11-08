@@ -10,4 +10,12 @@ marp: true
 
 # CMU Databases Systems Fall 2019
 
+- by Prof. Andy Pavlo
+
+---
+
+# Getting Started with Apache Kafka
+
+- By Ryan Plant
+
 ---
