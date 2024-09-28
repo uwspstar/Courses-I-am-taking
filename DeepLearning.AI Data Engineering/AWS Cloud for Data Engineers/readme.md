@@ -34,9 +34,6 @@
 9. **Combining AWS Services:**
    - AWS offers over 200 services, some general-purpose and others more specialized. Data engineers can combine these services like building blocks to create solutions that meet specific requirements.
 
-10. **Next Steps:**
-    - The following videos will dive deeper into specific core AWS services frequently used in data engineering projects.
-
 ---
 
 ### AWS Cloud Overview for Data Engineers: Interview Questions with Answers, Code Examples, and Comparison with Azure and GCP
