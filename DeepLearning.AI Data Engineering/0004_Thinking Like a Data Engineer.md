@@ -12,8 +12,8 @@
    2. **Stage 2: Define Functional and Non-Functional Requirements**
       - **Objective:** Translate stakeholder needs into concrete functional and non-functional requirements.
       - **Actions:**
-        - Functional requirements: Describe what the system must do (e.g., data ingestion, transformation).
-        - Non-functional requirements: Define technical specifications (e.g., latency, performance).
+        - `Functional requirements`: (WHAT) Describe what the system must do (e.g., data ingestion, transformation).
+        - `Non-functional requirements`: (HOW) Define technical specifications (e.g., latency, performance).
         - Confirm these requirements with stakeholders to ensure alignment.
       - **Outcome:** A documented set of requirements to guide system design.
 
@@ -21,7 +21,7 @@
       - **Objective:** Select the best tools and technologies to meet the defined requirements.
       - **Actions:**
         - Identify multiple tools that can meet each requirement.
-        - Perform a cost-benefit analysis, considering factors like licensing fees, cloud costs, and maintainability.
+        - Perform a `cost-benefit analysis`, considering factors like licensing fees, cloud costs, and maintainability.
         - Choose the best components and create a prototype.
       - **Outcome:** A set of tools and a tested prototype to validate the design.
 
