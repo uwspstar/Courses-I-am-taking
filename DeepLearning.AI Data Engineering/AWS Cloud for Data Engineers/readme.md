@@ -107,7 +107,7 @@
 
 #### 5. **Question:** What is AWS Lambda, and how can you use it in data engineering workflows?
    **Answer:**
-   - **AWS Lambda** is a serverless compute service. Azure offers **Azure Functions**, and GCP has **Cloud Functions**.
+   - **AWS Lambda** is a `serverless compute service`. Azure offers **Azure Functions**, and GCP has **Cloud Functions**.
 
    ```python
    # Example: AWS Lambda function to process S3 file uploads
