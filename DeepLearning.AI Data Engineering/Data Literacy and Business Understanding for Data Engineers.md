@@ -14,11 +14,15 @@
 4. **Challenges with Data Adoption:**
    - Simply providing data products or dashboards to users without proper training can lead to resistance and culture problems within organizations.
    - The goal is to foster a culture where people are comfortable with data and willing to leverage it for better decision-making.
+     
+---
 
 5. **Gathering Requirements:**
    - Understand the overall business goals of the company first.
    - During requirements gathering, pay close attention to the needs and expectations of individual stakeholders, such as marketing officers or sales teams.
    - This approach ensures that the data product not only meets business objectives but also resonates with the stakeholders' specific needs, leading to higher adoption rates.
+  
+---
 
 6. **Understanding Different Audiences:**
    - Tailor your communication based on the audience's role:
@@ -27,11 +31,14 @@
      - **Chief Finance Officer:** Highlight how it can optimize cash flow management.
    - Building strong people skills and understanding what motivates different stakeholders is key.
 
+---
+
 7. **Advice for Aspiring Data Engineers:**
    - Get proficient in understanding the business side of operations.
    - Develop an understanding of how a business functions, but stay authentic to your role as a data engineer.
    - Focus on building systems that align with business operations and communicate effectively with business teams.
 
+---
 8. **Final Takeaway:**
    - Data engineers should balance technical skills with business knowledge to deliver impactful solutions that resonate with business stakeholders.
    - Enhancing business literacy will enable data engineers to build solutions that align better with organizational goals and drive value.
