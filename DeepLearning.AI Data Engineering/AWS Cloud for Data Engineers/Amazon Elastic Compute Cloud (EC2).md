@@ -157,12 +157,12 @@ Question:** What are the key considerations for securing an EC2 instance?
    | **Private Connectivity** | VPC Endpoints                          | Private Link                             | VPC Service Controls                    |
 
 #### 10. **Question:** How does Amazon EC2 compare to Azure and GCP in terms of instance management?
-    **Answer:**
-    - AWS EC2, Azure VMs, and GCP Compute Engine all provide similar instance management capabilities, but each has its unique features and optimizations.
-
-    | **Feature**              | **AWS (EC2)**                          | **Azure (Virtual Machines)**             | **GCP (Compute Engine)**                |
-    |--------------------------|----------------------------------------|------------------------------------------|-----------------------------------------|
-    | **Instance Management**  | Stop, start, terminate, reboot         | Stop, start, deallocate, restart         | Stop, start, delete, reset              |
-    | **Scaling**              | Auto Scaling Groups                    | VM Scale Sets                            | Managed Instance Groups                 |
-    | **Snapshots**            | EBS Snapshots                          | Managed Disks Snapshots                  | Persistent Disk Snapshots               |
-    | **Load Balancing**       | Elastic Load Balancer                  | Azure Load Balancer                      | GCP Load Balancer                       |
+   **Answer:**
+   - AWS EC2, Azure VMs, and GCP Compute Engine all provide similar instance management capabilities, but each has its unique features and optimizations.
+   
+   | **Feature**              | **AWS (EC2)**                          | **Azure (Virtual Machines)**             | **GCP (Compute Engine)**                |
+   |--------------------------|----------------------------------------|------------------------------------------|-----------------------------------------|
+   | **Instance Management**  | Stop, start, terminate, reboot         | Stop, start, deallocate, restart         | Stop, start, delete, reset              |
+   | **Scaling**              | Auto Scaling Groups                    | VM Scale Sets                            | Managed Instance Groups                 |
+   | **Snapshots**            | EBS Snapshots                          | Managed Disks Snapshots                  | Persistent Disk Snapshots               |
+   | **Load Balancing**       | Elastic Load Balancer                  | Azure Load Balancer                      | GCP Load Balancer                       |
