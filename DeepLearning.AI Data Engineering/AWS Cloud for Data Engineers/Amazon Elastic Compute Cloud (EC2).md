@@ -142,9 +142,7 @@
    | **Scaling Policies**     | Target tracking, scheduled, step scaling | Metrics-based, scheduled                | Metrics-based, scheduled                |
    | **Integration**          | ELB, CloudWatch, Auto Scaling Groups   | Load Balancer, VM Scale Sets             | Load Balancer, Instance Groups          |
 
-#### 9. **
-
-Question:** What are the key considerations for securing an EC2 instance?
+#### 9. **Question:** What are the key considerations for securing an EC2 instance?
    **Answer:**
    - Use **Security Groups** to control inbound and outbound traffic.
    - Implement **IAM Roles** for secure access to AWS services.
