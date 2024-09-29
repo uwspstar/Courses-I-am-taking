@@ -91,7 +91,7 @@ This summary provides an overview of the basic networking components on AWS, suc
    | **Address Overlap**      | No overlap within VPC                 | No overlap within VNet                 | No overlap within VPC                  |
    | **Default VPC CIDR**     | 172.31.0.0/16                         | 10.0.0.0/16                            | No default CIDR                        |
 
-#### 5. **Question:** What is a public subnet and how is it different from a private subnet?
+#### [5. **Question:** What is a public subnet and how is it different from a private subnet?]()
    **Answer:**
    - **Public Subnet:** A subnet that has a route to the Internet Gateway (IGW) and allows resources within it to communicate with the internet.
    - **Private Subnet:** A subnet that has no direct route to the internet and is used for resources that should not be exposed externally.
@@ -112,7 +112,7 @@ This summary provides an overview of the basic networking components on AWS, suc
    | **Configuration**        | Attach IGW to VPC, update route table | Attach to Virtual Network              | Attach to VPC                          |
    | **Public Subnet Requirement** | Route table points to IGW             | Route table points to IGW              | Route table points to IGW              |
 
-#### 7. **Question:** What are the main components of a VPC?
+#### [7. **Question:** What are the main components of a VPC?]()
    **Answer:**
    - **Components of a VPC:**
      - **Subnets:** Segments of the VPC.
@@ -140,7 +140,7 @@ This summary provides an overview of the basic networking components on AWS, suc
    | **Cross-Region Peering** | Yes                                   | Yes                                    | Yes                                    |
    | **Traffic Routing**      | Private IP addresses                  | Private IP addresses                   | Private IP addresses|
 
-#### 9. **Question:** What is the purpose of a NAT Gateway?
+#### [9. **Question:** What is the purpose of a NAT Gateway?]()
    **Answer:**
    - A **NAT Gateway** allows resources in a private subnet to access the internet while preventing inbound traffic from the internet. This is useful for downloading updates or patches without exposing resources to the internet.
 
