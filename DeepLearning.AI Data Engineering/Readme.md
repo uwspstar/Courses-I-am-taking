@@ -1,5 +1,10 @@
 # DeepLearning.AI Data Engineering
 
+---
+- [Data Engineering Lifecycle](https://github.com/uwspstar/Courses-I-am-taking/blob/main/DeepLearning.AI%20Data%20Engineering/Data%20Engineering%20Lifecycle.md)
+
+---
+
 ### "Introduction to Data Engineering" Course
 
 1. **Course Overview:**
