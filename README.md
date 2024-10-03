@@ -1,8 +1,14 @@
----
-marp: true
----
+
+
 
 # Courses-I-am-taking
+
+### 2024
+### DeepLearning.AI Data Engineering
+
+- [DeepLearning.AI Data Engineering](https://github.com/uwspstar/Courses-I-am-taking/tree/main/DeepLearning.AI%20Data%20Engineering)
+
+---
 
 ### 2022
 
