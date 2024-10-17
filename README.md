@@ -4,6 +4,11 @@
 # Courses-I-am-taking
 
 ### 2024
+
+### Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]
+
+- [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]](https://www.udemy.com/course/machinelearning/?couponCode=KEEPLEARNING)
+
 ### DeepLearning.AI Data Engineering
 
 - [DeepLearning.AI Data Engineering](https://github.com/uwspstar/Courses-I-am-taking/tree/main/DeepLearning.AI%20Data%20Engineering)
