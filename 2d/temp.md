@@ -3,7 +3,7 @@
 ### **1. Personal Summary**  
 - **Name:**  
 - **Role:** Senior Software Architect  
-- **Team/Department:** Property Claims  
+- **Team/Department:**  
 - **Review Period:** [Start Date] - [End Date]  
 
 ### **2. Key Achievements**
